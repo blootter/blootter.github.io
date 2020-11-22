@@ -1,7 +1,6 @@
-# greeenotter.github.io
+# blootter.github.io
 
-Site officiel de la créatrice Greeen otter
-
+Site officiel de la créatrice Blootter
 
 ## Template 
 
